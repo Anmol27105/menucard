@@ -13,7 +13,7 @@
         <hr>
         <section>
           <h2>Coffee</h2>
-          <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"/>
+          <img src="blob:https://web.whatsapp.com/bdac7083-2287-416f-884f-b66cdb3c4b90" alt="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
